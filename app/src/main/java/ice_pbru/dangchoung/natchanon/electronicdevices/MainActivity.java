@@ -29,6 +29,32 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void createListView() {
+        final int[] intIcon = {R.drawable.r01, R.drawable.c02, R.drawable.diode01};
+
+
+        final String[] titleString = new String[20];
+        titleString[0] = "Resistor";
+        titleString[1] = "Capacitor";
+        titleString[2] = "Diode";
+        titleString[3] = "";
+        titleString[4] = "";
+        titleString[5] = "";
+        titleString[6] = "";
+        titleString[7] = "";
+        titleString[8] = "";
+        titleString[9] = "";
+        titleString[10] = "";
+        titleString[11] = "";
+        titleString[12] = "";
+        titleString[13] = "";
+        titleString[14] = "";
+        titleString[15] = "";
+        titleString[16] = "";
+        titleString[17] = "";
+        titleString[18] = "";
+        titleString[19] = "";
+
+
     }
 
     private void buttonController() {
